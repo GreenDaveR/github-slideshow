@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text, my text, we all text
+TO BE OR NOT TO BE, THAT IS THE QUESTION
 Use the left arrow to go back!
